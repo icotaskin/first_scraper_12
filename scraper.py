@@ -1,6 +1,6 @@
 import scraperwiki
 
-html = scraperwiki.scrape('http://www.oddschecker.com/football/english/championship/barnsley-v-cardiff-city/over-under-0.5')
+html = scraperwiki.scrape('http://www.oddschecker.com/football/')
 #print html
 
 import lxml.html
